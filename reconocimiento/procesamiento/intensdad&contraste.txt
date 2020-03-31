@@ -1,0 +1,59 @@
+leucemia:
+	img_gray:
+		La Intensidad promedio es:  223.8305481426748
+		El Contraste promedio es:  16.731002968505482
+	img_ecu:
+		nan
+		nan
+	img_gray_ecu:
+		La Intensidad promedio es:  0.27027704350462595
+		El Contraste promedio es:  0.04713538521294972
+	img_gray_ecu_rest:
+		La Intensidad promedio es:  0.27027704350462595
+		El Contraste promedio es:  0.04713538521294972
+	img_total:
+		nan
+		nan
+	
+	img_dila:
+		La Intensidad promedio es:  224.4680922488573
+		El Contraste promedio es:  16.614993383130376
+	img_ero:
+		La Intensidad promedio es:  222.94680213829116
+		El Contraste promedio es:  17.159628827401875
+	img_open:
+		La Intensidad promedio es:  223.50955967602565
+		El Contraste promedio es:  17.045489819873893
+	ima_clos:
+		La Intensidad promedio es:  223.6575767017737
+		El Contraste promedio es:  17.023574629088063
+
+sano:
+	img_gray:
+		La Intensidad promedio es:  178.58114005738477
+		El Contraste promedio es:  20.070333068569642
+	img_ecu:
+		nan
+		nan
+	img_gray_ecu:
+		La Intensidad promedio es:  178.58114005738477
+		El Contraste promedio es:  20.070333068569642
+	img_gray_ecu_rest:
+		La Intensidad promedio es:  178.04538242698982
+		El Contraste promedio es:  19.836835578756013
+	img_total:
+		nan
+		nan
+	
+	img_dila:
+		La Intensidad promedio es:  180.9125099075297
+		El Contraste promedio es:  19.572325835589876
+	img_ero:
+		La Intensidad promedio es:  177.0280779392338
+		El Contraste promedio es:  19.706499782815172
+	img_open:
+		La Intensidad promedio es:  178.69510898282695
+		El Contraste promedio es:  19.60734293109888
+	ima_clos:
+		La Intensidad promedio es:  179.22750330250992
+		El Contraste promedio es:  19.632070935646293
